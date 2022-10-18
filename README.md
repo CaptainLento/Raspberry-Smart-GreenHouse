@@ -8,14 +8,14 @@ The file representing the thesis itself will also be available for those interes
 
 ## Materials for project development
 ### Materials for building the structure
-- wood
-- screws
-- plexiglas
-- hinges
-- labor :)
+- Wood 
+- Screws
+- Plexiglas
+- Hinges
+- Labor :)
 
 ### Elements per circuit
-- [raspberry pi3](https://www.amazon.it/RASPBERRY-PI-Raspberry-Desktop-Computer/dp/B00LPESRUK/ref=sr_1_3?__mk_it_IT=ÅMÅŽÕÑ&crid=128SV7RPEJDR5&keywords=raspberry+p3&qid=1666083245&qu=eyJxc2MiOiIzLjI3IiwicXNhIjoiMi44MCIsInFzcCI6IjIuMDAifQ%3D%3D&sprefix=rasberryp%2Caps%2C127&sr=8-3)
+- Raspberry Pi3: [Here on Amazon](https://www.amazon.it/RASPBERRY-PI-Raspberry-Desktop-Computer/dp/B00LPESRUK/ref=sr_1_3?__mk_it_IT=ÅMÅŽÕÑ&crid=128SV7RPEJDR5&keywords=raspberry+p3&qid=1666083245&qu=eyJxc2MiOiIzLjI3IiwicXNhIjoiMi44MCIsInFzcCI6IjIuMDAifQ%3D%3D&sprefix=rasberryp%2Caps%2C127&sr=8-3)
 - jumpers
 - breadboard
 - GPIO extension board
