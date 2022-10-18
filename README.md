@@ -25,8 +25,6 @@ The file representing the thesis itself will also be available for those interes
 -
 -
 
-
-
-
 ## Folders-and-Repositories
+
 
