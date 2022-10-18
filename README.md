@@ -6,6 +6,10 @@ to control all the physical aspects of interest for growing plants.
 in the repository you will find, in addition to the python script, also the flowcharts and the connections made.
 The file representing the thesis itself will also be available for those interested in reading it.
 
+## Why a smart GreenHouse?
+it is a project used for an agricultural high school in order to let their students learn the basics of computer science and interface them in a "new" world, quite far from what they are used to. For this reason it was decided to develop all n python scripts away from the Linux command shell (although it would have been more convenient in terms of performance).
+I hope it will be useful for anyone who wants to exploit this project for home use. (It is advisable to keep the prototype in the house to avoid energy waste in the cold months)
+
 ## Materials for project development
 ### Materials for building the structure
 - Wood, Screws, Plexiglas, Hinges for the real strucure itself.
@@ -21,6 +25,6 @@ The file representing the thesis itself will also be available for those interes
 -
 -
 
-## Folders-and-Repositories
+## Why a smart GreenHouse?
 
 
